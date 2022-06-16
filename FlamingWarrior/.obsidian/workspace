@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "57fc68056f8fd51d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba4ca74dc54d9cd1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NAPCC.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "432da2edb507d63e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d1efbe00da9935b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceb39df6b9df0355",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7aa7994b9d73fc7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0f293547b7975853",
+    "type": "split",
+    "children": [
+      {
+        "id": "b02abb7859dad3a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f61b0a01128d1496",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NAPCC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ba4ca74dc54d9cd1",
+  "lastOpenFiles": [
+    "NAPCC.md",
+    "Main.md"
+  ]
+}
