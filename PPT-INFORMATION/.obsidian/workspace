@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TNSAPCC.md",
+            "file": "Main.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0f293547b7975853",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TNSAPCC.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +90,8 @@
   },
   "active": "ba4ca74dc54d9cd1",
   "lastOpenFiles": [
-    "TNSAPCC.md",
     "Main.md",
-    "NAPCC.md"
+    "NAPCC.md",
+    "TNSAPCC.md"
   ]
 }
