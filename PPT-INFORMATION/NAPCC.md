@@ -28,7 +28,7 @@ The Fourth Assessment report of the Intergovernmental Panel on Climate Change(IP
 
 • June 2008: India hastily announced its National Action Plan on Climate Change      (NAPCC), a month before the G8 Summit.
 
-• 2014: The new NDA** government formed
+• 2014: The new NDA government formed
 
 • 2015: NAPCC met only once in the new dispensation.
 
