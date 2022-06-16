@@ -23,6 +23,10 @@ It was embedded with 8 sub-missions which are:
 ## Background
 The Fourth Assessment report of the Intergovernmental Panel on Climate Change(IPCC-AR4) concluded from the direct observations of changes in temperature, sea level, and snow cover in the northern hemisphere during 1850 to the present, that the warming of the earth's climate syswtem is unequivocal. 
 
+The global qatmospheric concentration of CO2 has increased from a pre-industrial value of about 280ppm to 379 ppm in 2005. Based on multiple model projections, the temperature increases during 2090-2099 relative to 1980-1999 may range from 1.1 to 6.4 ℃ and sea level rise from 0.18 to 0.59 meters. These could lead to impacts on frshwater availability, oceanic acidification, food production, flooding of coastal areas and increased burden of vector borne and water borne diseases associated with extreme weather events.
+
+The Prime Minister's Council on Climate Chqange, in  its first meeting on 13th July, 2007, had decided that " *A National Document compiling actiontaken by India for addressing the challenge of Climate Change, and the action it proposes to take* " be prepared.
+
 ## Timeline
 • Mid-2007: The UPA government constituted the Prime Minister’s Council on Climate Change (PMCCC).
 
@@ -34,3 +38,7 @@ The Fourth Assessment report of the Intergovernmental Panel on Climate Change(IP
 
 • 2018 (Global Climate Risk Index): India listes the 12th most vulnerable country to climate change impacts.
 
+## TNSAPCC
+India’s National Action Plan on Climate Change (NAPCC) outlines for addressing climate-related challenges through National Missions. State Action Plans on Climate Change (SAPCC) are required to effectively ensure that objectives are aligned with national and regional development priorities. Tamil Nadu State Action Plan on Climate Change (TNSAPCC), launched in 2015, which provided the first State-wide and cross-sectoral climate change impact and vulnerability assessment, and formulated adaptation and mitigation strategies to be carried out by the State Government Departments.
+
+Go to: [[TNSAPCC]]
