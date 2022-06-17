@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba4ca74dc54d9cd1",
+        "id": "21ca394b9237b05e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Main.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -53,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0f293547b7975853",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +82,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba4ca74dc54d9cd1",
+  "active": "21ca394b9237b05e",
   "lastOpenFiles": [
-    "Main.md",
+    "Untitled.md",
     "NAPCC.md",
-    "TNSAPCC.md"
+    "TNSAPCC.md",
+    "Main.md"
   ]
 }
