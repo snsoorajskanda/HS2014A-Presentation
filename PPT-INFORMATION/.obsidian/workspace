@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NAPCC.md",
+            "file": "TNCP.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0f293547b7975853",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NAPCC.md",
+                "file": "TNCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +90,11 @@
   },
   "active": "21ca394b9237b05e",
   "lastOpenFiles": [
-    "NAPCC.md",
-    "Main.md",
-    "TNSP.md",
+    "TNCP.md",
     "TNSAPCC.md",
+    "Main.md",
+    "NAPCC.md",
+    "TNSP.md",
     "Pasted image 20220618015138.png",
     "Untitled.md"
   ]
